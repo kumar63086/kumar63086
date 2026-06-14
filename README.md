@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar63086&label=Profile%20views&color=0e75b6&style=flat" alt="kumar63086" /> </p>
 
-- 🔭 I’m currently working on **Skill-Hub**
+- 🔭 I’m currently working on **Kayala's Private Limited**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **React_Native**
 
 - 💬 Ask me about **Web Developer, MERN**
 
